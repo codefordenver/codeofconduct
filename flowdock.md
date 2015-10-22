@@ -1,4 +1,4 @@
-Code for Denver uses flowdock for real-time, and primary asynchronous communication. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Flowdock administrator Willy Douglas immediately. You can contact him by email, willygdouglas@gmail.com, or by direct messaging @Willy on Slack. 
+Code for Denver uses flowdock for real-time, and primary asynchronous communication. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Flowdock administrator Willy Douglas immediately. You can contact him by email, willygdouglas@gmail.com, or by direct messaging @Willy on Flowdock. 
 If you cannot reach Willy Douglas and/or it is an emergency, please call 911 and/or remove yourself from the situation. 
 
 ####Email Template for Anti-Harassment Reporting
