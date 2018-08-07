@@ -1,6 +1,6 @@
-#Code of Conduct
+# Code of Conduct
 
-####Code for Denver's Code of Conduct
+#### Code for Denver's Code of Conduct
 
 The Code for Denver community expects that Code for Denver network activities, events, and digital forums:
 
@@ -19,7 +19,7 @@ The Code for Denver community expects that Code for Denver network activities, e
 
 Code for Denver reserves the right to ask anyone in violation of these policies not to participate in Code for Denver network activities, events, and digital forums.
 
-####Code for Denver's Anti-Harassment Policy
+#### Code for Denver's Anti-Harassment Policy
 
 This anti-harassment policy is based on <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">the example policy</a> from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 
@@ -37,21 +37,20 @@ Harassment includes but is not limited to: offensive verbal or written comments 
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for Denver network activities, events, and digital forums. 
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or leadership team immediately. Event staff or the leadership team will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or leadership team immediately.  If you don't feel comfortable doing so in person, send an email to safespace@codefordenver.org. Event staff or the leadership team will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation.
 
-####Support from Code for America
+#### Support from Code for America
 
 If for any reason, you are not comfortable discussing a situation with a Code for Denver leader, you can also contact Code for America about harassment at safespace@codeforamerica.org and feel free to use the email template below. Code for America staff acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
-####Email Template for Anti-Harassment Reporting
+#### Email Template for Anti-Harassment Reporting
 
 SUBJECT: Safe Space alert at [EVENT NAME]
 
 I am writing because of harassment at a Code for Denver event, (NAME, PLACE, DATE OF EVENT). 
 
 You can reach me at (CONTACT INFO). Thank you.
-
